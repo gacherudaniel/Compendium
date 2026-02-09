@@ -8,9 +8,9 @@ This area addresses any distinction, exclusion, restriction or preference or oth
 
 ### Persons with Disability
 
- are those who have 'long-term physical, mental, intellectual or sensory impairments which in interaction with various barriers may hinder their full and effective participation in society on an equal basis with others.
+ are those who have ‘long-term physical, mental, intellectual or sensory impairments which in interaction with various barriers may hinder their full and effective participation in society on an equal basis with others.
 
-###  Foreign nationals
+###  Foreign nationals
 
 A foreign national is a person who is not a citizen of the host country in which he or she is residing or temporarily sojourning.
 
@@ -20,7 +20,7 @@ A person who is not considered as a national by any State under the operation of
 
 ## Participation
 
-Participation in political and public affairs is a universal human right and a key component of good governance grounded in various internationally agreed normative frameworks, which provide for the right of every citizen – "without distinction of any kind, such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status" – to participate in public affairs, including the right to take part in the conduct of public affairs, directly or through freely chosen representatives; the right to vote and to be elected; and the right to have access on general terms of equality to public service positions.
+Participation in political and public affairs is a universal human right and a key component of good governance grounded in various internationally agreed normative frameworks, which provide for the right of every citizen – “without distinction of any kind, such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status” – to participate in public affairs, including the right to take part in the conduct of public affairs, directly or through freely chosen representatives; the right to vote and to be elected; and the right to have access on general terms of equality to public service positions.
 
 ### National Identity Card
 
@@ -28,11 +28,11 @@ It is an identity card with a photo, usable as an identity card at least inside 
 
 ### Registered voters
 
-It's a person who has recorded his name in the voting register and is entitled legally to cast a vote.
+It’s a person who has recorded his name in the voting register and is entitled legally to cast a vote.
 
 ### Work permit
 
-It's an official document that authorizes its holder to seek and take employment in a foreign country legally.
+It’s an official document that authorizes its holder to seek and take employment in a foreign country legally.
 
 ### Passport
 
@@ -58,7 +58,7 @@ The disclosure and subsequent accessibility of relevant government data and info
 
 ### Accountability
 
-Government's responsibility and duty to inform its citizens about the decisions it takes as well as to provide an account of the activities and performance of the entire government and its public officials to avoid overlap with other dimensions.
+Government’s responsibility and duty to inform its citizens about the decisions it takes as well as to provide an account of the activities and performance of the entire government and its public officials to avoid overlap with other dimensions.
 
 ### Access to information
 
@@ -74,7 +74,7 @@ Refers to the ability of media outlets to access and disseminate factual and obj
 
 ### Media plurality
 
-Refers to the media ecosystem more broadly, including diversity of media ownership, financing models, relationship between governments and the media, and the media outlets' relationship with civil society.
+Refers to the media ecosystem more broadly, including diversity of media ownership, financing models, relationship between governments and the media, and the media outlets’ relationship with civil society.
 
 ### Judicial Independence
 
@@ -100,7 +100,7 @@ Refers to all cases that were resolved/determined by 30th June during the year i
 
 ### Pending cases
 
-Refers to the cases which had not been determined/resolved by 30th June during the year in 
+Refers to the cases which had not been determined/resolved by 30th June during the year in 
 
 ### Verdicts
 
@@ -136,7 +136,7 @@ Time taken to dispose civil cases through the judicial process 14 months (11 mon
 
 ### Claim
 
-A creditor's assertion of a right to payment from a debtor or the debtor's property.
+A creditor’s assertion of a right to payment from a debtor or the debtor’s property.
 
 ### Conviction Rate
 
@@ -200,13 +200,13 @@ Responsiveness: refers to how quickly and well a person or organization reacts t
 
 ### System responsiveness or external political efficacy
 
-Refers to people's feeling of having a say in what the government does.
+Refers to people’s feeling of having a say in what the government does.
 
 ### Alternative Family Care
 
 Formal or informal arrangement whereby a child is cared for at least overnight away from the parental home.
 
-##  Absence of corruption
+##  Absence of corruption
 
 The absence of corruption is the result of a combination of the level of intolerance; the levels and patterns of corrupt practices; and the State response to corruption.
 
@@ -214,11 +214,11 @@ The absence of corruption is the result of a combination of the level of intoler
 
 ### Trust
 
-Is conceptualized as "a person's belief that another person or institution will act consistently with her/his expectations of positive behavior.
+Is conceptualized as “a person’s belief that another person or institution will act consistently with her/his expectations of positive behavior.
 
 ### Trust in institutions
 
-Refers to people's trust in different types of public and private institutions. Trust in other people: Refers both to people who are not known to the respondent (generalized trust) and to persons known to the respondent, such as family members, friends and neighbors (limited trust).
+Refers to people’s trust in different types of public and private institutions. Trust in other people: Refers both to people who are not known to the respondent (generalized trust) and to persons known to the respondent, such as family members, friends and neighbors (limited trust).
 
 ### Functional Democracy
 
@@ -278,7 +278,7 @@ A court-ordered period during which an offender is allowed to remain in the comm
 
 #### Juvenile
 
-Persons under the age of 18, that is in line with the Children's Act 2004 and International convention.
+Persons under the age of 18, that is in line with the Children’s Act 2004 and International convention.
 
 #### Accused
 
@@ -306,7 +306,7 @@ Robbery is where deadly weapons are used. Deadly weapons include any instrument 
 
 #### Arrest
 
-The act of depriving a person's liberty of movement on reasonable grounds or suspicion that they committed an offence.
+The act of depriving a person’s liberty of movement on reasonable grounds or suspicion that they committed an offence.
 
 #### Assault
 
@@ -348,7 +348,7 @@ Persons held in Prisons, Penal Institutions or Correctional Institutions on a sp
 
 Persons held in prisons, penal institutions or correctional institutions after a first instance decision or a final decision on their case has been made by a competent authority. This includes persons held who are awaiting the outcome of an appeal in respect of verdict or sentence or who are within the statutory limits for appealing and persons held who have been convicted but who have not received a sentence yet. Persons held who have received a custodial sentence for one crime but are still under trial and unsentenced for another crime should be counted as sentenced persons held.
 
-####  Unsentenced Prisoners
+####  Unsentenced Prisoners
 
 Persons held in prisons, penal institutions or correctional institutions who are untried, pre-trial or awaiting a first instance decision on their case from a competent authority regarding their conviction or acquittal. Persons held before and during the trial should be included. Sentenced persons held awaiting the outcome of an appeal in respect of verdict or sentence or who are within the statutory limits for appealing their sentence should be excluded
 

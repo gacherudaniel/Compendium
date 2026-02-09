@@ -1,14 +1,12 @@
-# Strategic and Managerial Activities & References
-
-## Strategic and managerial activities
+# Strategic and managerial activities
 
 ## Institutional frameworks and principles; role and organization of official statistics
 
 ### Kenya Statistics Code of Practice (KeSCoP)
 
-It is a technical and regulatory instrument that sets out the standards and practices for the production and dissemination of official statistics. It aims to contribute to the continuous improvement of statistical processes and outputs. It provides producers of official statistics with detailed practices they must commit to when producing and releasing Official Statistics.It is among the administrative tools for use by National Statistical System (NSS) members to comply with for statistics to be designated as official. KeSCoP also provides a framework for producers of non-official statistics to guide production of  credible statistics that can be used for official reporting where official statistics are not available.
+It is a technical and regulatory instrument that sets out the standards and practices for the production and dissemination of official statistics. It aims to contribute to the continuous improvement of statistical processes and outputs. It provides producers of official statistics with detailed practices they must commit to when producing and releasing Official Statistics.It is among the administrative tools for use by National Statistical System (NSS) members to comply with for statistics to be designated as official. KeSCoP also provides a framework for producers of non-official statistics to guide production of  credible statistics that can be used for official reporting where official statistics are not available.
 
-### Fundamental Principles of Official Statistics`
+### Fundamental Principles of Official Statistics\`
 
 A set of guidelines adopted by the United Nations Statistical Commission with an aim to ensure the production and dissemination of quality, impartial, and trustworthy official statistics.
 
@@ -26,7 +24,7 @@ The ensemble of the National Statistical Office and other Statistics units (Mini
 
 ### Statistical Coordination
 
-The process of harmonizing statistics activities among data producers, users, and suppliers of data to ensure consistency, efficiency, harmony and quality in official statistics. 
+The process of harmonizing statistics activities among data producers, users, and suppliers of data to ensure consistency, efficiency, harmony and quality in official statistics. 
 
 ### Statistical Coordination Mechanisms
 
@@ -90,7 +88,7 @@ A system of decision rights and accountabilities for the management of the avail
 
 ## National Statistical Coordination
 
-Refers to a structured process by which various producers and users of official statistics within a country's National Statistical System (NSS) collaborate to ensure consistency, efficiency, and quality in statistical activities.
+Refers to a structured process by which various producers and users of official statistics within a country’s National Statistical System (NSS) collaborate to ensure consistency, efficiency, and quality in statistical activities.
 
 ### Statistical Coordination
 
@@ -228,7 +226,7 @@ Data that have been categorized, analyzed, summarized, and placed in context in 
 
 ### Information Management
 
-The management of an organization's information resources to improve performance. Information management underpins knowledge management, as people derive knowledge from information.
+The management of an organization’s information resources to improve performance. Information management underpins knowledge management, as people derive knowledge from information.
 
 ### Information Technology
 
@@ -256,7 +254,7 @@ An organized structure that facilitates the storage of data, information, and kn
 
 ### Intellectual Capital
 
-The value, or potential value, of an organization's intellectual assets (or knowledge products and services). Attempts to place a financial value on knowledge often define intellectual capital as the combination of human, structural, and technological capital.
+The value, or potential value, of an organization’s intellectual assets (or knowledge products and services). Attempts to place a financial value on knowledge often define intellectual capital as the combination of human, structural, and technological capital.
 
 ### Know-How
 
@@ -264,11 +262,11 @@ Skill or capability derived from knowledge and experience.
 
 ### Knowledge Assets
 
-The parts of an organization's intangible assets relate specifically to knowledge such as know-how, good practices, and intellectual property. Knowledge assets (or products and services) are categorized as human (people, teams, networks, and communities), structural (the codified knowledge that can be found in business processes), and technological (the technologies that support knowledge sharing such as databases and intranets). By understanding the knowledge assets it possesses, an organization can use them to better effect and identify what gaps may exist.
+The parts of an organization’s intangible assets relate specifically to knowledge such as know-how, good practices, and intellectual property. Knowledge assets (or products and services) are categorized as human (people, teams, networks, and communities), structural (the codified knowledge that can be found in business processes), and technological (the technologies that support knowledge sharing such as databases and intranets). By understanding the knowledge assets it possesses, an organization can use them to better effect and identify what gaps may exist.
 
 ### Knowledge Audit
 
-Systematic identification and analysis of an organization's knowledge needs, resources, flows, gaps, uses, and users. A knowledge audit usually includes a review of people-based knowledge, capability, and skills as well as information. It also examines critically an organization's values, vision, culture, and skills from the perspective of its knowledge needs
+Systematic identification and analysis of an organization’s knowledge needs, resources, flows, gaps, uses, and users. A knowledge audit usually includes a review of people-based knowledge, capability, and skills as well as information. It also examines critically an organization’s values, vision, culture, and skills from the perspective of its knowledge needs
 
 ### Knowledge Economy
 
@@ -284,7 +282,7 @@ A set of methods and techniques for making tacit knowledge more explicit so that
 
 ### Knowledge Management
 
-The explicit and systematic management of processes enabling vital individual and collective knowledge resources to be identified, created, stored, shared, and used for organizational benefit. It covers the management of data flow, the sharing of "know-how", knowledge retention, collective information, knowledge and expertise. Its practical expression is the fusion of information management and organizational learning.
+The explicit and systematic management of processes enabling vital individual and collective knowledge resources to be identified, created, stored, shared, and used for organizational benefit. It covers the management of data flow, the sharing of “know-how”, knowledge retention, collective information, knowledge and expertise. Its practical expression is the fusion of information management and organizational learning.
 
 ### Knowledge Management Tools
 
@@ -646,7 +644,7 @@ An organizational guideline that articulates the workforce capabilities, skills 
 
 ### Talent management
 
-The systematic attraction, identification, development, engagement, retention and deployment of individuals of particular value to an organization, either in view of their "high potential" for the future or because they are fulfilling business/operation-critical roles.
+The systematic attraction, identification, development, engagement, retention and deployment of individuals of particular value to an organization, either in view of their “high potential” for the future or because they are fulfilling business/operation-critical roles.
 
 ### Succession planning
 
@@ -655,5 +653,3 @@ The strategic process of identifying and developing internal personnel with the 
 ## Strategic and managerial activities, n.e.c.
 
 A broad category of actions that involve both high-level planning (strategic) and the oversight and direction of an organization's operations (managerial), but which don't fit neatly into other specific categories.
-
-# References
